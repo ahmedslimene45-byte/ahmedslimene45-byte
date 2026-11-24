@@ -22,7 +22,7 @@ I'm an audio engineer, not a developer, so my actual portfolio lives in audio, n
 
 • Studio and brand: https://leapwavesounds.com
 
-• Portfolio: https://www.twine.net/ahmedslimene
+• Portfolio: https://leapwavesounds.com/ahmed-slimene-portfolio/ (audio engineering / post-production work)
 
 ### Reach me
 
