@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Ahmed 👋
 
-<!--
-**ahmedslimene45-byte/ahmedslimene45-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Audio Engineer & Media Producer** based in Frankfurt am Main, Germany, originally from Tunisia.
 
-Here are some ideas to get you started:
+I build, mix, and ship audio: podcast studios, dubs, ad creatives, and voice work, for brands and for my own studio, LeapwaveSounds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I actually do
+
+• Built and ran the in-house podcast studio for Liebscher & Bracht (2.2M+ YouTube subscribers), 300+ episodes and 50+ ad creatives produced end to end: recording, editing, mixing.
+
+• 3 years in live sound engineering in Tunisia before moving into studio and podcast production.
+
+• Founder of LeapwaveSounds, a premium audio/media production studio, covering brand identity, client pipeline, and the site's DNS/email infrastructure (SPF, DKIM, DMARC) and WP-CLI/SSH maintenance.
+
+• Daily across Pro Tools, Logic, and Reaper.
+
+• Quadrilingual: Arabic, English, French, German.
+
+### Why this profile is light on code
+
+I'm an audio engineer, not a developer, so my actual portfolio lives in audio, not repositories.
+
+• Studio and brand: https://leapwavesounds.com
+
+• Portfolio: https://www.twine.net/ahmedslimene
+
+### Reach me
+
+ahmed@mail.leapwavesounds.com
