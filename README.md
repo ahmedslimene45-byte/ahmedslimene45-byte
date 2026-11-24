@@ -24,6 +24,14 @@ I'm an audio engineer, not a developer, so my actual portfolio lives in audio, n
 
 • Portfolio: https://leapwavesounds.com/ahmed-slimene-portfolio/ (audio engineering / post-production work)
 
+### Selected creative work
+
+• Original soundtrack composed for a short film.
+
+• Original music track composed for a game jam (Darmstadt media campus).
+
+• 3 original tracks composed for a fashion show, played live.
+
 ### Reach me
 
 ahmed@mail.leapwavesounds.com
